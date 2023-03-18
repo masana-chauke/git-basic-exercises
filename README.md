@@ -1,2 +1,3 @@
 Some stuff for git basic exercises.
-More changes 
+More changes
+random changes 
